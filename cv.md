@@ -3,7 +3,7 @@ ___
 ## Contacts
 * E-mail: [hugorage@yandex.ru](mailto:hugorage@yandex.ru)
 * Phone: [+79851358945](tel:+79851358942)
-* Telegram: [@Hugorage](tg://resolve?domain=<Hugorage>)
+* Telegram: [@Hugorage](https://t.me/hugorage)
 ___
 ## Skills
 * HTML
