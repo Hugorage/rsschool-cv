@@ -1,0 +1,20 @@
+body{
+  margin: 0 auto;
+  max-width: 1024px;
+  padding: 10px;
+}
+header{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px; 
+  color: #fff;
+  background-color: rgb(156, 156, 156);
+  border-radius: 20px;
+}
+header img{
+  border-radius: 50px;
+}
+section{
+  padding: 5px 10px;
+}
